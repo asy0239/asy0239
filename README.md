@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 - 🌱 Spring, django, WPF 등 다양한 기술 사용 경험이 있습니다.
 - 😄 좋은 개발자가 되도록 꾸준히 노력하고 있습니다.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asy0239)](https://github.com/anuraghazra/github-readme-stats)
 
+## 💪 Skills
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=asy0239&show_icons=true)
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=black"/> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=black"/> <img src="https://img.shields.io/badge/c%23-23239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asy0239)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=asy0239&show_icons=true)
