@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hellow%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=CSharp%20Python%20Java&descAlignY=51&descAlign=62)
 
+안녕하세요 안성윤입니다. 현직 개발자로 발전하기 위해 항상 노력하겠습니다.
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+
 - 🔭 현재 반도체 업종 C# 개발자로 근무중입니다.
 - 📫 Java, Python, C# 을 사용합니다.
 - 🌱 Spring, django, WPF 등 다양한 기술 사용 경험이 있습니다.
